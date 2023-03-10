@@ -1,0 +1,32 @@
+.bg-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 12px;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #ffffff;
+  font-weight: 800;
+}
+.button {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+  border-radius: 8px;
+  border: 0px;
+  padding: 10px;
+}
